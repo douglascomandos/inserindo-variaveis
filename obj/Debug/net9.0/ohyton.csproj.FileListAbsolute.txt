@@ -1,0 +1,14 @@
+C:\Users\douglas.rasilva1\Desktop\ohyton\obj\Debug\net9.0\ohyton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\douglas.rasilva1\Desktop\ohyton\obj\Debug\net9.0\ohyton.AssemblyInfoInputs.cache
+C:\Users\douglas.rasilva1\Desktop\ohyton\obj\Debug\net9.0\ohyton.AssemblyInfo.cs
+C:\Users\douglas.rasilva1\Desktop\ohyton\obj\Debug\net9.0\ohyton.csproj.CoreCompileInputs.cache
+C:\Users\douglas.rasilva1\Desktop\ohyton\bin\Debug\net9.0\ohyton.exe
+C:\Users\douglas.rasilva1\Desktop\ohyton\bin\Debug\net9.0\ohyton.deps.json
+C:\Users\douglas.rasilva1\Desktop\ohyton\bin\Debug\net9.0\ohyton.runtimeconfig.json
+C:\Users\douglas.rasilva1\Desktop\ohyton\bin\Debug\net9.0\ohyton.dll
+C:\Users\douglas.rasilva1\Desktop\ohyton\bin\Debug\net9.0\ohyton.pdb
+C:\Users\douglas.rasilva1\Desktop\ohyton\obj\Debug\net9.0\ohyton.dll
+C:\Users\douglas.rasilva1\Desktop\ohyton\obj\Debug\net9.0\refint\ohyton.dll
+C:\Users\douglas.rasilva1\Desktop\ohyton\obj\Debug\net9.0\ohyton.pdb
+C:\Users\douglas.rasilva1\Desktop\ohyton\obj\Debug\net9.0\ohyton.genruntimeconfig.cache
+C:\Users\douglas.rasilva1\Desktop\ohyton\obj\Debug\net9.0\ref\ohyton.dll
