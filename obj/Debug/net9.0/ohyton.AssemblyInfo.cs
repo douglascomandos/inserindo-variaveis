@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ohyton")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed2dde4400e0321dc1ea8b62568c905f459d9921")]
 [assembly: System.Reflection.AssemblyProductAttribute("ohyton")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ohyton")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
